@@ -438,7 +438,6 @@ MIT License - Copyright (c) 2025 Васил Добчев
 **Васил Добчев**  
 Създадено за **supportpc.org**
 
-- 💳 **Revolut:** [revolut.me/vasilwpj](https://revolut.me/vasilwpj) ☕
 - 🌐 **GitHub:** [Vaskata84](https://github.com/Vaskata84)
 
 ---
@@ -448,8 +447,6 @@ MIT License - Copyright (c) 2025 Васил Добчев
 ## 💯 Създадено с ❤️ за Мрежови Инженери
 
 **Backup Manager v4.0**
-
-[![Donate](https://img.shields.io/badge/☕_Buy_me_a_coffee-Revolut-0066FF?style=for-the-badge)](https://revolut.me/vasilwpj)
 
 **[⬆ Към началото](#-backup-manager---корпоративна-система-за-архивиране)**
 
