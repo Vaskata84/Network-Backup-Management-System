@@ -162,7 +162,7 @@ mkdir -p ~/Backup
 cd ~/Backup
 
 # Изтеглете последната версия
-wget https://github.com/Vaskata84/Network-Backup-Management-System/backup-manager/releases/latest/download/BACKUP-MANAGER-v4.0-FINAL.tar.gz
+git clone https://github.com/Vaskata84/Network-Backup-Management-System.git
 
 # Извлечете
 tar -xzf BACKUP-MANAGER-v4.0-FINAL.tar.gz
